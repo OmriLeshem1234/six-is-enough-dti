@@ -6,4 +6,4 @@ This repository is associated with the manuscript:
 
 submitted to IEEE Transactions on Medical Imaging (TMI).
 
-The source code will be released upon acceptance and publication of the manuscript.
+All materials associated with this work, including source code and the ClinMARDI-20 dataset, will be released upon acceptance and publication of the manuscript.
